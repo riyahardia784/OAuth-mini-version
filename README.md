@@ -123,7 +123,7 @@ GitHub User
 Clone the repository.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/riyahardia784/OAuth-mini-version.git
 ```
 
 Go to the project directory.
