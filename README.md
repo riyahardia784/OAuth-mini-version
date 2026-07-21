@@ -158,7 +158,7 @@ This project includes manual test cases covering:
 * Fetch User (Valid Token)
 * Fetch User (Invalid Token)
 
-See **TEST_CASES.md** for detailed information.
+See [Test Cases](./test.md)for detailed information.
 
 ---
 
